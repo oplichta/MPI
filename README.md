@@ -1,4 +1,4 @@
 MPI
 ===
 
-3 programs in mpi 
+2 programs in mpi 
